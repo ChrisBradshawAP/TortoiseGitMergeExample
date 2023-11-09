@@ -1,0 +1,5 @@
+1 some random
+2 lines of text
+3 to try to demonstrate
+4 the merge behaviour I
+5 was seeing
